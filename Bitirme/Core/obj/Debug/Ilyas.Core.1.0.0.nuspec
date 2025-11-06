@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Ilyas Geyik</authors>
     <description>Genel Core Katmanı - Katmanlı mimari altyapısı</description>
-    <repository type="git" />
+    <repository type="git" commit="b74f1ae12e85ed1cc4be310f73a54a64f6dd5911" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Autofac" version="8.4.0" exclude="Build,Analyzers" />
@@ -22,6 +22,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\geyik\source\repos\Bitirme\Core\bin\Debug\net8.0\Core.dll" target="lib\net8.0\Core.dll" />
+    <file src="C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Core\bin\Debug\net8.0\Core.dll" target="lib\net8.0\Core.dll" />
   </files>
 </package>

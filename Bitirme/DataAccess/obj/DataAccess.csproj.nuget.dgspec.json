@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\geyik\\source\\repos\\Bitirme\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\geyik\\source\\repos\\Bitirme\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geyik\\source\\repos\\Bitirme\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\geyik\\source\\repos\\Bitirme\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\geyik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geyik\\source\\repos\\Bitirme\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

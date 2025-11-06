@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="BusinessAspect\Autofac\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Constant\" />
+    <Folder Include="DependencyResolvers\Autofac\" />
+    <Folder Include="ValidationRules\FluentValidation\" />
+  </ItemGroup>
+
 </Project>

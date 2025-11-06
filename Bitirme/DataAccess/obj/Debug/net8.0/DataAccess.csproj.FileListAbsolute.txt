@@ -9,3 +9,15 @@ C:\Users\geyik\source\repos\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.dll
 C:\Users\geyik\source\repos\Bitirme\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\geyik\source\repos\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\geyik\source\repos\Bitirme\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

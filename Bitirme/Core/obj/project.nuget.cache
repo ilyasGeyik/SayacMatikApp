@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qe+5wE/Mq+Y=",
+  "dgSpecHash": "7F5xB7+GQu8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\geyik\\source\\repos\\Bitirme\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\geyik\\.nuget\\packages\\autofac\\8.4.0\\autofac.8.4.0.nupkg.sha512",
     "C:\\Users\\geyik\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",
