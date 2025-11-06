@@ -1,0 +1,11 @@
+C:\Users\geyik\source\repos\Bitirme\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\geyik\source\repos\Bitirme\Business\bin\Debug\net8.0\Business.dll
+C:\Users\geyik\source\repos\Bitirme\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\Business.dll
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\geyik\source\repos\Bitirme\Business\obj\Debug\net8.0\ref\Business.dll
