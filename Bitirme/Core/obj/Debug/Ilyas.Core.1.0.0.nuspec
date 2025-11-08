@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Ilyas Geyik</authors>
     <description>Genel Core Katmanı - Katmanlı mimari altyapısı</description>
-    <repository type="git" commit="b74f1ae12e85ed1cc4be310f73a54a64f6dd5911" />
+    <repository type="git" commit="40f39830f4286d41a89ddc7c5908b248ac3c22e1" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Autofac" version="8.4.0" exclude="Build,Analyzers" />

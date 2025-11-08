@@ -6,7 +6,7 @@ namespace Core.Entities.Concrete
     public class UserOperationClaim:IEntity
     {
         [Key]
-        public int Id { get; set; }
+        public string Id { get; set; }
         public int KullaniciID {  get; set; }
         public int YetkiId { get; set; }
 
