@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Genel Core Katmanı - Katmanlı mimari altyapısı")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f39830f4286d41a89ddc7c5908b248ac3c22e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1ac2f4bd24f7b9caacf1e4b65502a6dec4306c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

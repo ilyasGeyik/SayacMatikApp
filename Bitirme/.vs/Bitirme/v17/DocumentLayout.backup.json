@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\concrete\\firebase\\readingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\firebase\\readingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\concrete\\firebase\\billingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\firebase\\billingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\concrete\\firebase\\meterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\firebase\\meterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\concrete\\firebase\\alertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\firebase\\alertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\concrete\\firebase\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\firebase\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\ialertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ialertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\ibillinngdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ibillinngdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\ireadingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ireadingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\imeterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\imeterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\core\\dataaccess\\concrete\\firebaseentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\concrete\\firebaseentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\core\\dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Entities",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Entities.csproj",
-              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Entities.csproj",
-              "RelativeToolTip": "Entities\\Entities.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T11:28:38.236Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -44,14 +75,170 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataAccess",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\DataAccess.csproj",
-              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\DataAccess.csproj",
-              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-08T11:27:10.456Z",
+              "Title": "ReadingDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:39:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillingDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\BillingDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Firebase\\BillingDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\BillingDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Firebase\\BillingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:39:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeterDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\MeterDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Firebase\\MeterDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\MeterDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Firebase\\MeterDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:38:17.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlertDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\AlertDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Firebase\\AlertDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\AlertDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Firebase\\AlertDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:37:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\UserDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Firebase\\UserDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\UserDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Firebase\\UserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:21:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlertDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IAlertDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IAlertDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IAlertDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IAlertDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:07:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBillinngDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IBillinngDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IBillinngDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IBillinngDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IBillinngDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:52:01.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReadingDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IReadingDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IReadingDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IReadingDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IReadingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:51:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMeterDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IMeterDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IMeterDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IMeterDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IMeterDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:50:30.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:49:37.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IUserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:49:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FireBaseEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Core\\DataAccess\\Concrete\\FireBaseEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\Concrete\\FireBaseEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Core\\DataAccess\\Concrete\\FireBaseEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\Concrete\\FireBaseEntityRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:42:42.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:37:14.995Z",
               "EditorCaption": ""
             }
           ]
