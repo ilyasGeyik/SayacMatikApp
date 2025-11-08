@@ -13,7 +13,7 @@ namespace Entities.Concrete
         public string Id { get; set; }
         public string KullaniciID { get; set; }
         public string Model { get; set; }
-        public string SeriNo { get; set; }
+        public string MeterNo { get; set; }
         public DateTime KurulumTarihi { get; set; }
         public bool AktifMi { get; set; }
     }

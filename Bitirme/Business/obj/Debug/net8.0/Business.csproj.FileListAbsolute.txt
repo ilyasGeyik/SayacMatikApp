@@ -21,3 +21,9 @@ C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\obj\Debug
 C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\bin\Debug\net8.0\Core.dll
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\bin\Debug\net8.0\Core.pdb
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\geyik\OneDrive\Belgeler\GitHub\SayacMatikApp\Bitirme\Business\obj\Debug\net8.0\Business.csproj.Up2Date
