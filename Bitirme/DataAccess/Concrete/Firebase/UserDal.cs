@@ -11,6 +11,10 @@ namespace DataAccess.Concrete.Firebase
 {
     public class UserDal : FireBaseEntityRepositoryBase<User>, IUserDal
     {
+        public UserDal(string collectionName="Users") : base(collectionName)
+        {
+        }
+
         public Task<bool> EmailIsThereAsync(string email)
         {
             throw new NotImplementedException();

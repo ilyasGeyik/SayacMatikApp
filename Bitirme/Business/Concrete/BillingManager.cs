@@ -25,12 +25,27 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        public Task<Billing> GetBillingByIdAsync(string billingId)
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<Billing> GetByIdAsync(string id)
         {
             throw new NotImplementedException();
         }
 
         public Task<Billing> GetByUserIdAsync(string userId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<Billing>> GetLastXBillingAsync(string userId, int piece)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<Billing>> GetNoPaidBillingAsync(string userId)
         {
             throw new NotImplementedException();
         }

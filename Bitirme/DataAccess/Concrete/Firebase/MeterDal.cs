@@ -11,6 +11,10 @@ namespace DataAccess.Concrete.Firebase
 {
     public class MeterDal : FireBaseEntityRepositoryBase<Meter>, IMeterDal
     {
+        public MeterDal(string collectionName = "Meters") : base(collectionName)
+        {
+        }
+
         public Task<List<Meter>> GetAllMeterAsync()
         {
             throw new NotImplementedException();

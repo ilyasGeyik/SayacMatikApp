@@ -16,5 +16,11 @@ namespace Business.Abstract
         Task DeleteAsync(User user);
 
         Task<User> GetByEmailAsync(string email);
+
+        //kayıt sırasında e-mail kontrolü
+        Task<bool> EmailIsThereAsync(string email);
+
+        //Sistem yöneticisi veya raporlama için aktif kullanıcılar
+        Task<List<User>> GetActiveUserAsync();
     }
 }

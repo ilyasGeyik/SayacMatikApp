@@ -16,5 +16,12 @@ namespace Business.Abstract
         Task DeleteAsync(Alert alert);
 
         Task<List<Alert>> GetByUserIdAsync(string userId);
+
+
+        Task<List<Alert>> GetOpenAlertsAsync(string meterNo);
+        //hala çözülmemiş arızalar
+
+        Task<List<Alert>> GetAlertsByDateAsync(string meterNo, DateTime begin, DateTime end);
+        //tarih aralığını filtreleme
     }
 }

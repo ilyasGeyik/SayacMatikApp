@@ -20,6 +20,16 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        public Task<bool> EmailIsThereAsync(string email)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<User>> GetActiveUserAsync()
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<List<User>> GetAllAsync()
         {
             throw new NotImplementedException();

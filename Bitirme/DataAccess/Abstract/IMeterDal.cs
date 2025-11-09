@@ -10,10 +10,6 @@ namespace DataAccess.Abstract
 {
     public interface IMeterDal:IEntityRepository<Meter>
     {
-        //sayaç numarasına göre sayaç çekmek
-        Task<Meter> GetByMeterNoAsync(string meterNo);
-
-        //Admin veya toplu veri kontrolü
-        Task<List<Meter>> GetAllMeterAsync();
+        
     }
 }

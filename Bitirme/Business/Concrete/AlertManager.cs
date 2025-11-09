@@ -20,6 +20,11 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        public Task<List<Alert>> GetAlertsByDateAsync(string meterNo, DateTime begin, DateTime end)
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<List<Alert>> GetAllAsync()
         {
             throw new NotImplementedException();
@@ -31,6 +36,11 @@ namespace Business.Concrete
         }
 
         public Task<List<Alert>> GetByUserIdAsync(string userId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<Alert>> GetOpenAlertsAsync(string meterNo)
         {
             throw new NotImplementedException();
         }

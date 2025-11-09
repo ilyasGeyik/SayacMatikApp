@@ -9,8 +9,13 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.Firebase
 {
-    public class BillingDal : FireBaseEntityRepositoryBase<Billing>, IBillinngDal
+    public class BillingDal : FireBaseEntityRepositoryBase<Billing>, IBillingDal
     {
+        public BillingDal(string collectionName = "Billings") : base(collectionName)
+        {
+
+        }
+
         public Task<Billing> GetBillingByIdAsync(string billingId)
         {
             throw new NotImplementedException();

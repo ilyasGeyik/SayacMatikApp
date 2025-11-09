@@ -16,5 +16,14 @@ namespace Business.Abstract
         Task DeleteAsync(Billing billing);
 
         Task<Billing> GetByUserIdAsync(string userId);
+
+        //son x fatura listesi
+        Task<List<Billing>> GetLastXBillingAsync(string userId, int piece);
+
+        //ödeme ekranı için
+        Task<List<Billing>> GetNoPaidBillingAsync(string userId);
+
+        Task<Billing> GetBillingByIdAsync(string billingId);
+        //detay sayfası için
     }
 }

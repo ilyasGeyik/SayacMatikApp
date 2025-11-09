@@ -3,36 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\dtos\\billingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\billingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\concrete\\firebase\\readingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\firebase\\readingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\dtos\\readingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\readingdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\ireadingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ireadingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\concrete\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\concrete\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\concrete\\billingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\concrete\\billingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\concrete\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\concrete\\metermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\concrete\\metermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\entities\\concrete\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A78C67A-FED0-41AC-947C-8C33525AD371}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\abstract\\imeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\abstract\\imeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\imeterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\imeterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\abstract\\ibillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\abstract\\ibillingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\ibillingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ibillingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\concrete\\alertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\concrete\\alertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\abstract\\ialertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\abstract\\ialertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\dataaccess\\abstract\\ialertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF1A39D-C23B-4706-8E45-178FF01428C6}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ialertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\concrete\\readingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\concrete\\readingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|c:\\users\\geyik\\onedrive\\belgeler\\github\\sayacmatikapp\\bitirme\\business\\abstract\\ireadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F07D83E-9BD0-4561-A207-CF79CB602D8D}|Business\\Business.csproj|solutionrelative:business\\abstract\\ireadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,58 +74,214 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BillingDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\BillingDetailDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\BillingDetailDto.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\BillingDetailDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\BillingDetailDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:34:35.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReadingDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\ReadingDetailDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\ReadingDetailDto.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\ReadingDetailDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\ReadingDetailDto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:27:58.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Reading.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Reading.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Reading.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Reading.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Reading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:13:36.62Z",
+              "WhenOpened": "2025-11-09T16:55:02.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:54:55.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IUserDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IUserDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:54:46.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeterManager.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\MeterManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\MeterManager.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\MeterManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\MeterManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:54:05.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMeterService.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IMeterService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IMeterService.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IMeterService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IMeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:53:58.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Meter.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Meter.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Meter.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Meter.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Meter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Title": "BillingManager.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\BillingManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\BillingManager.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\BillingManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\BillingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:13:25.239Z",
+              "WhenOpened": "2025-11-09T16:53:39.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReadingDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IReadingDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IReadingDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IReadingDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IReadingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:51:33.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadingDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\Firebase\\ReadingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:36:43.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMeterDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IMeterDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IMeterDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IMeterDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IMeterDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:53:50.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBillingService.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IBillingService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IBillingService.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IBillingService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IBillingService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:53:26.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBillingDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IBillingDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IBillingDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IBillingDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IBillingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:52:58.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlertManager.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\AlertManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\AlertManager.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\AlertManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\AlertManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:52:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAlertService.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IAlertService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IAlertService.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IAlertService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IAlertService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:52:43.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAlertDal.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IAlertDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IAlertDal.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\DataAccess\\Abstract\\IAlertDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IAlertDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:52:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadingManager.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\ReadingManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ReadingManager.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Concrete\\ReadingManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ReadingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:52:09.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IReadingService.cs",
+              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IReadingService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IReadingService.cs",
+              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Business\\Abstract\\IReadingService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IReadingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:51:50.508Z",
               "EditorCaption": ""
             },
             {
@@ -103,58 +291,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserForRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\UserForRegisterDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\UserForRegisterDto.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\UserForRegisterDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\UserForRegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:23:18.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserForLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\UserForLoginDto.cs",
-              "RelativeDocumentMoniker": "Entities\\DTOs\\UserForLoginDto.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\DTOs\\UserForLoginDto.cs",
-              "RelativeToolTip": "Entities\\DTOs\\UserForLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:21:01.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Billing.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Billing.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Billing.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Billing.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Billing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:13:15.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Alert.cs",
-              "DocumentMoniker": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Alert.cs",
-              "RelativeDocumentMoniker": "Entities\\Concrete\\Alert.cs",
-              "ToolTip": "C:\\Users\\geyik\\OneDrive\\Belgeler\\GitHub\\SayacMatikApp\\Bitirme\\Entities\\Concrete\\Alert.cs",
-              "RelativeToolTip": "Entities\\Concrete\\Alert.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:13:05.319Z",
-              "EditorCaption": ""
             }
           ]
         }

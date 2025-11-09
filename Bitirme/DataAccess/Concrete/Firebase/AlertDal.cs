@@ -11,6 +11,10 @@ namespace DataAccess.Concrete.Firebase
 {
     public class AlertDal : FireBaseEntityRepositoryBase<Alert>, IAlertDal
     {
+        public AlertDal(string collectionName = "Alerts") : base(collectionName)
+        {
+        }
+
         public Task<List<Alert>> GetAlertsByDateAsync(string meterNo, DateTime begin, DateTime end)
         {
             throw new NotImplementedException();

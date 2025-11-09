@@ -35,6 +35,21 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        public Task<Reading> GetLastReadingAsync(string meterNo)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<Reading>> GetLastXReadingAsync(string meterNo, int piece)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<List<Reading>> GetReadingByDateAsync(string meterNo, DateTime begin, DateTime end)
+        {
+            throw new NotImplementedException();
+        }
+
         public Task UpdateAsync(Reading reading)
         {
             throw new NotImplementedException();

@@ -25,7 +25,17 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        public Task<List<Meter>> GetAllMeterAsync()
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<Meter> GetByIdAsync(string id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Meter> GetByMeterNoAsync(string meterNo)
         {
             throw new NotImplementedException();
         }

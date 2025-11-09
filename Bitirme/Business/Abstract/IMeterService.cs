@@ -15,5 +15,10 @@ namespace Business.Abstract
         Task AddAsync(Meter meter);
         Task UpdateAsync(Meter meter);
         Task DeleteAsync(Meter meter);
+        //sayaç numarasına göre sayaç çekmek
+        Task<Meter> GetByMeterNoAsync(string meterNo);
+
+        //Admin veya toplu veri kontrolü
+        Task<List<Meter>> GetAllMeterAsync();
     }
 }

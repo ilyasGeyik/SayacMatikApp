@@ -5,19 +5,24 @@
     <version>1.0.0</version>
     <authors>Ilyas Geyik</authors>
     <description>Genel Core Katmanı - Katmanlı mimari altyapısı</description>
-    <repository type="git" commit="95a939b506c0eaa81d17c0c010355b1d01766c21" />
+    <repository type="git" commit="ff5d3ea82d2843badb2a6c6621417795e8e9a363" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Autofac" version="8.4.0" exclude="Build,Analyzers" />
         <dependency id="Autofac.Extensions.DependencyInjection" version="10.0.0" exclude="Build,Analyzers" />
         <dependency id="Autofac.Extras.DynamicProxy" version="7.1.0" exclude="Build,Analyzers" />
         <dependency id="Castle.Core" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="Firebase.Net" version="1.1.1" exclude="Build,Analyzers" />
+        <dependency id="FirebaseDatabase.net" version="5.0.0" exclude="Build,Analyzers" />
         <dependency id="FluentValidation" version="12.0.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="9.0.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.Extensions.Configuration" version="9.0.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="9.0.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.Extensions.Configuration.Binder" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.4" exclude="Build,Analyzers" />
         <dependency id="System.IdentityModel.Tokens.Jwt" version="8.14.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reactive" version="6.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reactive.Linq" version="6.1.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>

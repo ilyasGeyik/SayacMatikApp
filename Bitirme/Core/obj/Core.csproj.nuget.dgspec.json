@@ -66,6 +66,14 @@
               "target": "Package",
               "version": "[5.1.1, )"
             },
+            "Firebase.Net": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[12.0.0, )"
@@ -86,9 +94,21 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[8.14.0, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "System.Reactive.Linq": {
+              "target": "Package",
+              "version": "[6.1.0, )"
             }
           },
           "imports": [

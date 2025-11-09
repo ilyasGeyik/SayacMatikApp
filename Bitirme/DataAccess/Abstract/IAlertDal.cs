@@ -10,10 +10,6 @@ namespace DataAccess.Abstract
 {
     public interface IAlertDal:IEntityRepository<Alert>
     {
-        Task<List<Alert>> GetOpenAlertsAsync(string meterNo);
-        //hala çözülmemiş arızalar
 
-        Task<List<Alert>> GetAlertsByDateAsync(string meterNo, DateTime begin, DateTime end);
-        //tarih aralığını filtreleme
     }
 }

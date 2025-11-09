@@ -9,8 +9,15 @@
   <ItemGroup>
     <Folder Include="BusinessAspect\Autofac\" />
     <Folder Include="Constant\" />
-    <Folder Include="DependencyResolvers\Autofac\" />
     <Folder Include="ValidationRules\FluentValidation\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Firebase.Net" Version="1.1.1" />
+    <PackageReference Include="FirebaseDatabase.net" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="System.Reactive" Version="6.1.0" />
+    <PackageReference Include="System.Reactive.Linq" Version="6.1.0" />
   </ItemGroup>
 
   <ItemGroup>
